@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <link href="{{ asset('/css/menu.css')}}" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>MENU</h1>
+  <p>Latte/<span class="cp">Cappucino</span>/Flat White/Hot Coffee/<br>Americano/Long Black/Short Black/Iced Latte/Iced Coffee/Iced Mocha</br>
+  <br>Soy/Almond/Oat Milks ＋160</br>
+  <br>Each Small 400/Large 500</br></p<
+
+<img src="/img/coffee-2560260_1920.jpeg" alt="コーヒーの写真" width="300">
+<img src="/img/coffee-shop-1149155_1920.jpeg" alt="コーヒーの写真" width="450">
+<img src="/img/coffee.jpg" alt="コーヒーの写真" width="450">
+<img src="/img/coffee-2560260_1920.jpeg" alt="コーヒーの写真" width="450">
+
+
+</body>
+</html>
