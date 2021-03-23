@@ -1,0 +1,36 @@
+
+body{
+    background-image: url(/img/coffee-shop-1149155_1920.jpeg);0 0 no-repeat;
+  	background-position: left top;
+  	background-size: 100% auto;
+}
+
+
+p {
+    border: solid 2px #fff;
+    margin: 50px;
+    padding: 40px;
+    color: #fff;
+  }
+h1{
+  font-size: 50px;
+  font-family: "serif";
+  padding: 20px;
+	color: #fff;
+}
+h1 {
+    color: ;#000000
+}
+h1 {
+  border-bottom: solid 3px skyblue;
+  position: relative;
+}
+
+h1:after {
+  position: absolute;
+  content: " ";
+  display: block;
+  border-bottom: solid 3px #ffc778;
+  bottom: -3px;
+  width: 30%;
+}
